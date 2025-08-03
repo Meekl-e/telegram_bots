@@ -1,0 +1,4 @@
+telebot
+requests
+numpy
+python-dotenv==1.1.1
